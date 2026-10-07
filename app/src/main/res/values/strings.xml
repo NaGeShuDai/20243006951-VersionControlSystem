@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Practical3_GitHub</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="username_hint">Email or Username</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in">Log In</string>
 </resources>
